@@ -1,0 +1,13 @@
+Saving all output to "/yandi5.csv". Enter "record" with no arguments to stop it.
+'attacktype','SUCCESSFULATTACK'
+'Military','1839'
+'Police','1.2E+3'
+'Private Citizens & Property','1051'
+'Government (General)','651'
+'Unknown','413'
+'Business','398'
+'Religious Figures/Institutions','292'
+'Terrorists/Non-State Militia','243'
+'Transportation','146'
+'Government (Diplomatic)','107'
+10 rows selected (1.195 seconds)

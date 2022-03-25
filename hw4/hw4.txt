@@ -1,0 +1,10 @@
+# Hadoop commands
+
+hdfs dfs -ls [dir]
+hdfs dfs -mkdir [dir]
+hdfs dfs -rmdir [dir]
+
+hdfs dfs -put [local_source] [destination]
+hdfs dfs -get [source] [local_destination]
+
+hadoop jar [file.jar] [class] [destination]

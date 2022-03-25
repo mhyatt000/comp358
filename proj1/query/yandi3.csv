@@ -1,0 +1,13 @@
+Saving all output to "/yandi3.csv". Enter "record" with no arguments to stop it.
+'weap','SUCCESSFULWEAP'
+'Vehicle','3.21E+3'
+'Suicide (carried bodily by human being)','3094'
+'Explosives','188'
+'Grenade','28'
+'Automatic or Semi-Automatic Rifle','11'
+'Firearms','7'
+'Explosive','7'
+'Sticky Bomb','5'
+'Handgun','5'
+'Unknown Gun Type','5'
+10 rows selected (1.228 seconds)

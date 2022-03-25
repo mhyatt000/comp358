@@ -1,0 +1,13 @@
+Saving all output to "/yandi1.csv". Enter "record" with no arguments to stop it.
+'targ_nat','target','SUCCESS'
+'Unknown','Iraq','1.23E+3'
+'Islamic State of Iraq and the Levant (ISIL)','Iraq','1063'
+'Taliban','Afghanistan','501'
+'Boko Haram','Nigeria','3.4E+2'
+'Unknown','Afghanistan','304'
+'Unknown','Pakistan','219'
+'Islamic State of Iraq and the Levant (ISIL)','Syria','1.8E+2'
+'Tehrik-i-Taliban Pakistan (TTP)','Pakistan','164'
+'Al-Shabaab','Somalia','133'
+'Taliban','International','128'
+10 rows selected (1.831 seconds)

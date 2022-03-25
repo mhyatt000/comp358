@@ -1,0 +1,13 @@
+Saving all output to "/yandi4.csv". Enter "record" with no arguments to stop it.
+'weap','DEADLIESTWEAP'
+'Firearms','10253'
+'Explosives','7289'
+'Unknown','1495'
+'Melee','895'
+'Vehicle','617'
+'Unknown Explosive Type','566'
+'Incendiary','248'
+'Unknown Gun Type','232'
+'Automatic or Semi-Automatic Rifle','221'
+'Handgun','125'
+10 rows selected (1.18 seconds)

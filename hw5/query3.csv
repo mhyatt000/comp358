@@ -1,0 +1,2 @@
+row,orderID,orderDate,shipDate,shipMode,profit,quantity,sales
+1,CA-2011-100006,2013-09-07 00:00:00,2013-09-13 00:00:00,Standard Class,109.61,3.00,377.97

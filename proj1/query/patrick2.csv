@@ -1,0 +1,13 @@
+Saving all output to "/patrick2.csv". Enter "record" with no arguments to stop it.
+'targ_nat','weap','S'
+'Unknown','Unknown Explosive Type','22485'
+'Unknown','Unknown Gun Type','14355'
+'Unknown','','5360'
+'Unknown','Vehicle','4963'
+'Unknown','Other Explosive Type','4943'
+'Unknown','Automatic or Semi-Automatic Rifle','3852'
+'Unknown','Grenade','3000'
+'Taliban','Unknown Gun Type','2451'
+'Unknown','Handgun','2033'
+'Shining Path (SL)','Unknown Explosive Type','1695'
+10 rows selected (1.524 seconds)
