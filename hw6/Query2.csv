@@ -1,0 +1,22 @@
+s.productcategory,c.name,c.symbol,c.marketcapamount,c.ipoyear,total_sale,total_count
+Consulting,Adobe Systems Incorporated,ADBE,39140000000,1986,60627.0,17
+Consulting,Apple Inc.,AAPL,754280000000,1980,46374.0,12
+Consulting,Costco Wholesale Corporation,COST,64990000000,NULL,72442.5,24
+Consulting,DIRECTV,DTV,43830000000,NULL,93784.5,19
+Consulting,Google Inc.,GOOG,366820000000,2004,96090.0,30
+Consulting,QUALCOMM Incorporated,QCOM,117980000000,1991,28686.0,7
+Consulting,Starbucks Corporation,SBUX,70110000000,1992,51784.5,13
+Development,Adobe Systems Incorporated,ADBE,39140000000,1986,148546.3,43
+Development,Apple Inc.,AAPL,754280000000,1980,143060.8,37
+Development,Costco Wholesale Corporation,COST,64990000000,NULL,165836.4,52
+Development,DIRECTV,DTV,43830000000,NULL,183821.3,52
+Development,Google Inc.,GOOG,366820000000,2004,356451.1,100
+Development,QUALCOMM Incorporated,QCOM,117980000000,1991,106186.3,25
+Development,Starbucks Corporation,SBUX,70110000000,1992,124257.8,42
+Training,Adobe Systems Incorporated,ADBE,39140000000,1986,56930.0,20
+Training,Apple Inc.,AAPL,754280000000,1980,51527.5,20
+Training,Costco Wholesale Corporation,COST,64990000000,NULL,31655.0,13
+Training,DIRECTV,DTV,43830000000,NULL,20636.25,11
+Training,Google Inc.,GOOG,366820000000,2004,69683.75,27
+Training,QUALCOMM Incorporated,QCOM,117980000000,1991,38095.0,11
+Training,Starbucks Corporation,SBUX,70110000000,1992,54216.25,15

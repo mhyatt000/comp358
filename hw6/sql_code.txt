@@ -1,0 +1,15 @@
+SELECT c.name, c.symbol, c.marketcapamount, c.ipoyear, sum(s.saleamount) as total_sale, count(*) as total_count
+FROM clients_ c Join sales_by_year s ON s.companyname = c.name
+Group by c.name, c.symbol, c.marketcapamount, c.ipoyear
+Order by c.marketcapamount;SELECT c.name, c.symbol, c.marketcapamount, c.ipoyear, sum(s.saleamount) as total_sale, count(*) as total_count
+FROM clients_ c Join sales_by_year s ON s.companyname = c.name
+Group by c.name, c.symbol, c.marketcapamount, c.ipoyear
+Order by c.marketcapamount;
+
+select s.productcategory, c.name, c.symbol, c.marketcapamount, c.ipoyear, sum(s.saleamount) as total_sale, count(*) as total_count
+from important_clients i join clients_ c on c.name = i.name
+join sales_by_year s on s.companyname = c.name
+group by s.productcategory, c.name, c.symbol, c.marketcapamount, c.ipoyear;select s.productcategory, c.name, c.symbol, c.marketcapamount, c.ipoyear, sum(s.saleamount) as total_sale, count(*) as total_count
+from important_clients i join clients_ c on c.name = i.name
+join sales_by_year s on s.companyname = c.name
+group by s.productcategory, c.name, c.symbol, c.marketcapamount, c.ipoyear;
